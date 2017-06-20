@@ -12,8 +12,8 @@ def main():
 
 
 #conditional statements let you use "A if C else B"
-    st = "x is less than y" if (x < y) else "x is greater than oe equal to y"
-    print st
+    st1 = "x is less than y" if (x < y) else "x is greater than oe equal to y"
+    print st1
 
 if __name__ == "__main__":
     main()
